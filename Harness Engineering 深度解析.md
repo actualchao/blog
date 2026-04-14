@@ -1,3 +1,8 @@
+---
+title: "I 工程化新范式：Harness Engineering（线束工程）深度解析报告"
+publishedAt: "2026-04-12"
+---
+
 # AI 工程化新范式：Harness Engineering（线束工程）深度解析报告
 
 ## 1. 核心背景：从“随机鹦鹉”到“稳定引擎”
